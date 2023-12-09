@@ -7,3 +7,4 @@
 
 Более подробное описание заданий и их решение представлены в Markdown-ячейках в Jupyter-ноутбуке в репозитории
 
+NB: Таблица retention не отображается в гитхабе с цветовыми градиентами, для полноценного отображения необходимо запустить notebook в любой IDE (Github disables CSS and javascript in their rendered notebooks as a security measure.)
